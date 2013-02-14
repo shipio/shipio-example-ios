@@ -1,0 +1,332 @@
+TcisimpleTests
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/Info.plist cisimpleTests/cisimpleTests-Info.plist
+cProcessPCH /var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cisimple-Prefix-gbdrvilxfmicokggswtrkuykguyp/cisimple-Prefix.pch.pth cisimple/cisimple-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cisimple-Prefix-axgxrpfxufftiiencqipvbyzeadi/cisimple-Prefix.pch.pth cisimple/cisimple-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7/cisimpleTests.o /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimpleTests/cisimpleTests.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7s/cisimpleTests.o /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimpleTests/cisimpleTests.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7s/cisimpleTests normal armv7s
+cLd /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7/cisimpleTests normal armv7
+cCreateUniversalBinary /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/cisimpleTests normal "armv7 armv7s"
+cGenerateDSYMFile /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest.dSYM /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/cisimpleTests
+cCopyStringsFile /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/en.lproj/InfoPlist.strings cisimpleTests/en.lproj/InfoPlist.strings
+cPhaseScriptExecution "Run Script" /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Script-0A243A32158EBCB900C9CCCC.sh
+cTouch /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/SenTestingKit
+c0000000050B01DB10000000000030F60
+t1353719217
+s200544
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk
+c00000000503C83D40000000000000132
+t1346143188
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/NSException_SenTestFailure.h
+c0000000050B01DB20000000000000E25
+t1353719218
+s3621
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenInterfaceTestCase.h
+c0000000050B01DB20000000000000701
+t1353719218
+s1793
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTest.h
+c0000000050B01DB2000000000000084C
+t1353719218
+s2124
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase.h
+c0000000050B01DB200000000000019FB
+t1353719218
+s6651
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCaseRun.h
+c0000000050B01DB20000000000000875
+t1353719218
+s2165
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase_Macros.h
+c0000000050B01DB20000000000007F41
+t1353719218
+s32577
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDefines.h
+c0000000050B01DB20000000000000947
+t1353719218
+s2375
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDistributedNotifier.h
+c0000000050B01DB20000000000000800
+t1353719218
+s2048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestLog.h
+c0000000050B01DB2000000000000079D
+t1353719218
+s1949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestObserver.h
+c0000000050B01DB20000000000000A6C
+t1353719218
+s2668
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestProbe.h
+c0000000050B01DB20000000000000AD1
+t1353719218
+s2769
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestRun.h
+c0000000050B01DB20000000000000A79
+t1353719218
+s2681
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuite.h
+c0000000050B01DB20000000000000CCF
+t1353719218
+s3279
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuiteRun.h
+c0000000050B01DB200000000000007E1
+t1353719218
+s2017
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c0000000050B01DB200000000000008A5
+t1353719218
+s2213
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingUtilities.h
+c0000000050B01DB20000000000000C37
+t1353719218
+s3127
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050B01DB50000000000629C80
+t1353719221
+s6462592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050B01DB800000000011BA850
+t1353719224
+s18589776
+
+N/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7/cisimpleTests
+t1355379639
+s20224
+
+N/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7/cisimpleTests.LinkFileList
+c0000000050C973B6000000000000008F
+t1355379638
+s143
+
+N/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7/cisimpleTests.o
+t1355379639
+s7488
+
+N/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7s/cisimpleTests
+t1355379639
+s20224
+
+N/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7s/cisimpleTests.LinkFileList
+c0000000050C973B60000000000000090
+t1355379638
+s144
+
+N/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7s/cisimpleTests.o
+t1355379639
+s7488
+
+N/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Script-0A243A32158EBCB900C9CCCC.sh
+c0000000050C973B60000000000000062
+t1355379638
+s98
+
+N/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimple/cisimple-Prefix.pch
+c0000000050959539000000000000013F
+t1351980345
+s319
+
+N/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimpleTests/cisimpleTests.h
+c000000005095953900000000000000E4
+t1351980345
+s228
+
+N/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimpleTests/cisimpleTests.m
+c0000000050C96ECA00000000000001BD
+t1355378378
+s445
+
+N/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimpleTests/en.lproj/InfoPlist.strings
+c0000000050959539000000000000002D
+t1351980345
+s45
+
+N/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest
+t2
+s0
+
+N/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest.dSYM
+t2
+s0
+
+N/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/Info.plist
+t2
+s0
+
+N/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/cisimpleTests
+t2
+s0
+
+N/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cisimple-Prefix-axgxrpfxufftiiencqipvbyzeadi/cisimple-Prefix.pch.pth
+t1355379638
+s4768580
+
+N/var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cisimple-Prefix-gbdrvilxfmicokggswtrkuykguyp/cisimple-Prefix.pch.pth
+t1355379638
+s4768716
+
+NcisimpleTests/cisimpleTests-Info.plist
+c000000005095953900000000000002B8
+t1351980345
+s696
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies293ea258ab79b641^9ab3a258ab79b641^---0#1#0#--18"Check dependencies36"E45B2679-0E42-4886-9425-7A750D953971-
+
+CCompileC build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7/cisimpleTests.o /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimpleTests/cisimpleTests.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377072439.007420
+e377072439.041949
+r1
+xCompileC
+xbuild/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7/cisimpleTests.o
+x/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimpleTests/cisimpleTests.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimpleTests/cisimpleTests.m9c180237ab79b641^90bd0a37ab79b641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimpleTests/cisimpleTests.m0000000000000000^3975"CompileC build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7/cisimpleTests.o cisimpleTests/cisimpleTests.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kevin/Desktop/temp/cisimple-ios/cisimple    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Kevin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/bin:/usr/local/mysql:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/cisimpleTests-generated-files.hmap -I/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/cisimpleTests-own-target-headers.hmap -I/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/cisimpleTests-all-target-headers.hmap -iquote /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/cisimpleTests-project-headers.hmap -I/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/DerivedSources/armv7 -I/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/DerivedSources -F/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cisimple-Prefix-axgxrpfxufftiiencqipvbyzeadi/cisimple-Prefix.pch -MMD -MT dependencies -MF /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7/cisimpleTests.d --serialize-diagnostics /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7/cisimpleTests.dia -c /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimpleTests/cisimpleTests.m -o /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7/cisimpleTests.o36"C9B0F1C9-FE6A-46E3-BAF2-884B4EE2383B-
+
+CCompileC build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7s/cisimpleTests.o /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimpleTests/cisimpleTests.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377072438.996731
+e377072439.034233
+r1
+xCompileC
+xbuild/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7s/cisimpleTests.o
+x/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimpleTests/cisimpleTests.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimpleTests/cisimpleTests.mec4eff36ab79b641^c2c30837ab79b641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimpleTests/cisimpleTests.m0000000000000000^3982"CompileC build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7s/cisimpleTests.o cisimpleTests/cisimpleTests.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kevin/Desktop/temp/cisimple-ios/cisimple    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Kevin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/bin:/usr/local/mysql:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/cisimpleTests-generated-files.hmap -I/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/cisimpleTests-own-target-headers.hmap -I/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/cisimpleTests-all-target-headers.hmap -iquote /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/cisimpleTests-project-headers.hmap -I/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/DerivedSources/armv7s -I/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/DerivedSources -F/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cisimple-Prefix-gbdrvilxfmicokggswtrkuykguyp/cisimple-Prefix.pch -MMD -MT dependencies -MF /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7s/cisimpleTests.d --serialize-diagnostics /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7s/cisimpleTests.dia -c /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimpleTests/cisimpleTests.m -o /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7s/cisimpleTests.o36"8D09BF2F-18B4-4C74-909D-7946BF65BE67-
+
+CCopyStringsFile /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/en.lproj/InfoPlist.strings cisimpleTests/en.lproj/InfoPlist.strings
+s377072472.727397
+e377072472.730520
+r1
+xCopyStringsFile
+x/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/en.lproj/InfoPlist.strings
+xcisimpleTests/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy cisimpleTests/en.lproj/InfoPlist.strings8254ba58ab79b641^4b03bb58ab79b641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimpleTests/en.lproj/InfoPlist.strings0000000000000000^831"CopyStringsFile /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/en.lproj/InfoPlist.strings cisimpleTests/en.lproj/InfoPlist.strings    cd /Users/Kevin/Desktop/temp/cisimple-ios/cisimple    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Kevin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/bin:/usr/local/mysql:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/en.lproj -- cisimpleTests/en.lproj/InfoPlist.strings36"CF28B581-2C5D-4881-8286-7EF7FEA03B3F-
+
+CCreateUniversalBinary /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/cisimpleTests normal "armv7 armv7s"
+s377072472.685652
+e377072472.693719
+r1
+xCreateUniversalBinary
+x/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/cisimpleTests
+xnormal
+xarmv7 armv7s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Create universal binary /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/cisimpleTestse8a0af58ab79b641^809fb158ab79b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/cisimpleTests000000000080d041^984"CreateUniversalBinary /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/cisimpleTests normal "armv7 armv7s"    cd /Users/Kevin/Desktop/temp/cisimple-ios/cisimple    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Kevin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/bin:/usr/local/mysql:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    lipo -create /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7/cisimpleTests /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7s/cisimpleTests -output /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/cisimpleTests36"8F1996CC-473B-4A4D-AE43-93C9711F5BDC-
+
+CGenerateDSYMFile /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest.dSYM /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/cisimpleTests
+s377072472.700583
+e377072472.718843
+r1
+xGenerateDSYMFile
+x/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest.dSYM
+x/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/cisimpleTests
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Generating /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest.dSYM3f72b358ab79b641^9a0bb858ab79b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest.dSYM000000000080d041^918"GenerateDSYMFile /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest.dSYM /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/cisimpleTests    cd /Users/Kevin/Desktop/temp/cisimple-ios/cisimple    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Kevin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/bin:/usr/local/mysql:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/cisimpleTests -o /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest.dSYM36"83CB9E45-181F-4530-99A3-621C336CF692-
+
+CLd /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7/cisimpleTests normal armv7
+s377072439.048552
+e377072439.080584
+r1
+xLd
+x/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7/cisimpleTests
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Link /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7/cisimpleTests749b0c37ab79b641^ada11437ab79b641^---0#0#0#--1679"Ld build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7/cisimpleTests normal armv7    cd /Users/Kevin/Desktop/temp/cisimple-ios/cisimple    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Kevin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/bin:/usr/local/mysql:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -L/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k -F/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7/cisimpleTests.LinkFileList -dead_strip -bundle_loader /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimple.app/cisimple -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=5.0 -framework SenTestingKit -framework UIKit -framework Foundation -o /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7/cisimpleTests36"FDDB6D2D-B33C-4D18-B9C2-EB2A149B0D63-
+
+CLd /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7s/cisimpleTests normal armv7s
+s377072439.041112
+e377072439.076047
+r1
+xLd
+x/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7s/cisimpleTests
+xnormal
+xarmv7s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"Link /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7s/cisimpleTestsefab0a37ab79b641^68781337ab79b641^---0#0#0#--1684"Ld build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7s/cisimpleTests normal armv7s    cd /Users/Kevin/Desktop/temp/cisimple-ios/cisimple    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Kevin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/bin:/usr/local/mysql:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -L/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k -F/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7s/cisimpleTests.LinkFileList -dead_strip -bundle_loader /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimple.app/cisimple -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=5.0 -framework SenTestingKit -framework UIKit -framework Foundation -o /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7s/cisimpleTests36"8ED2A920-D501-46A0-9AE9-479A7090DE23-
+
+CPhaseScriptExecution "Run Script" /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Script-0A243A32158EBCB900C9CCCC.sh
+s377072472.738063
+e377072472.762658
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Script-0A243A32158EBCB900C9CCCC.sh
+o/Applications/Xcode.app/Contents/Developer/Tools/RunUnitTests:68: note: RunUnitTests exited without running tests because TEST_AFTER_BUILD was set to NO.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'c6c1bd58ab79b641^fb3fc358ab79b641^-154"/Applications/Xcode.app/Contents/Developer/Tools/RunUnitTests:68: note: RunUnitTests exited without running tests because TEST_AFTER_BUILD was set to NO.1(21%IDEActivityLogMessage2@81"RunUnitTests exited without running tests because TEST_AFTER_BUILD was set to NO.-377072472#0#154#-0#-23%DVTTextDocumentLocation3@77"file://localhost/Applications/Xcode.app/Contents/Developer/Tools/RunUnitTests0000000000000000^67#18446744073709551615#67#18446744073709551615#18446744073709551615#0#30"Shell Script Invocation Notice--0#0#0#--21253"PhaseScriptExecution "Run Script" build/cisimple.build/Release-iphoneos/cisimpleTests.build/Script-0A243A32158EBCB900C9CCCC.sh    cd /Users/Kevin/Desktop/temp/cisimple-ios/cisimple    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER Kevin    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS "armv7 armv7s"    setenv ARCHS_STANDARD_32_64_BIT "armv7 armv7s"    setenv ARCHS_STANDARD_32_BIT "armv7 armv7s"    setenv ARCHS_UNIVERSAL_IPHONE_OS "armv7 armv7s"    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build    setenv BUILD_ROOT /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k    setenv BUNDLE_LOADER /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimple.app/cisimple    setenv CACHE_ROOT /var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_ENABLE_OBJC_ARC YES    setenv CLASS_FILE_DIR /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest    setenv CODE_SIGNING_REQUIRED YES    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneOSCodeSignContext    setenv CODE_SIGN_IDENTITY "iPhone Developer"    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Release    setenv CONFIGURATION_BUILD_DIR /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k    setenv CONFIGURATION_TEMP_DIR /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos    setenv CONTENTS_FOLDER_PATH cisimpleTests.octest    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH armv7s    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH cisimpleTests.octest/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/cisimple.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME cisimpleTests.octest.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENTITLEMENTS_REQUIRED YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH cisimpleTests.octest/Executables    setenv EXECUTABLE_FOLDER_PATH cisimpleTests.octest    setenv EXECUTABLE_NAME cisimpleTests    setenv EXECUTABLE_PATH cisimpleTests.octest/cisimpleTests    setenv FILE_LIST /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH cisimpleTests.octest/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k\" /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks /Applications/Xcode.app/Contents/Developer/Library/Frameworks"    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME cisimpleTests.octest    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD gnu99    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER cisimple/cisimple-Prefix.pch    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_MISSING_PROTOTYPES YES    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/include\"  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE cisimpleTests/cisimpleTests-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH cisimpleTests.octest/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH cisimpleTests.octest/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/cisimple.dst    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER Kevin    setenv INSTALL_ROOT /tmp/cisimple.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH cisimpleTests.octest/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/cisimpleTests-LinkMap-normal-armv7s.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_armv7 /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7/cisimpleTests.LinkFileList    setenv LINK_FILE_LIST_normal_armv7s /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal/armv7s/cisimpleTests.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH cisimpleTests.octest/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_bundle    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12C54    setenv MAC_OS_X_VERSION_ACTUAL 1082    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0802    setenv NATIVE_ARCH armv7    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Objects-normal    setenv OBJROOT /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS -DNS_BLOCK_ASSERTIONS=1    setenv OTHER_CPLUSPLUSFLAGS -DNS_BLOCK_ASSERTIONS=1    setenv PACKAGE_TYPE com.apple.package-type.wrapper    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Kevin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/bin:/usr/local/mysql:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH cisimpleTests.octest/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/PkgInfo    setenv PKGINFO_PATH cisimpleTests.octest/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 10A403    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH cisimpleTests.octest/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH cisimpleTests.octest/PrivateHeaders    setenv PRODUCT_NAME cisimpleTests    setenv PRODUCT_SETTINGS_PATH /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimpleTests/cisimpleTests-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.bundle    setenv PROFILING_CODE NO    setenv PROJECT cisimple    setenv PROJECT_DERIVED_FILE_DIR /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/DerivedSources    setenv PROJECT_DIR /Users/Kevin/Desktop/temp/cisimple-ios/cisimple    setenv PROJECT_FILE_PATH /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimple.xcodeproj    setenv PROJECT_NAME cisimple    setenv PROJECT_TEMP_DIR /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build    setenv PUBLIC_HEADERS_FOLDER_PATH cisimpleTests.octest/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH cisimpleTests.octest/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk    setenv SDK_NAME iphoneos6.0    setenv SDK_PRODUCT_BUILD_VERSION 10A403    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH cisimpleTests.octest/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH cisimpleTests.octest/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/Kevin/Desktop/temp/cisimple-ios/cisimple    setenv SRCROOT /Users/Kevin/Desktop/temp/cisimple-ios/cisimple    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE non-global    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME cisimpleTests    setenv TARGET_BUILD_DIR /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k    setenv TARGET_NAME cisimpleTests    setenv TARGET_TEMP_DIR /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build    setenv TEMP_DIR /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build    setenv TEMP_FILES_DIR /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build    setenv TEMP_FILE_DIR /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build    setenv TEMP_ROOT /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build    setenv TEST_AFTER_BUILD NO    setenv TEST_HOST /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimple.app/cisimple    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH cisimpleTests.octest    setenv UNSTRIPPED_PRODUCT NO    setenv USER Kevin    setenv USER_APPS_DIR /Users/Kevin/Applications    setenv USER_LIBRARY_DIR /Users/Kevin/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT YES    setenv VALID_ARCHS "armv7 armv7s"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH cisimpleTests.octest/version.plist    setenv VERSION_INFO_BUILDER Kevin    setenv VERSION_INFO_FILE cisimpleTests_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:cisimpleTests  PROJECT:cisimple-\""    setenv WRAPPER_EXTENSION octest    setenv WRAPPER_NAME cisimpleTests.octest    setenv WRAPPER_SUFFIX .octest    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4G2008a    setenv XCODE_VERSION_ACTUAL 0452    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0450    setenv YACC yacc    /bin/sh -c /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/Script-0A243A32158EBCB900C9CCCC.sh36"B756F7EF-3F7F-4656-90D9-A12D6A400E3C-
+
+CProcessInfoPlistFile /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/Info.plist cisimpleTests/cisimpleTests-Info.plist
+s377072472.649384
+e377072472.657258
+r1
+xProcessInfoPlistFile
+x/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/Info.plist
+xcisimpleTests/cisimpleTests-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Process cisimpleTests/cisimpleTests-Info.plist8d97a658ab79b641^6342a858ab79b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimpleTests/cisimpleTests-Info.plist0000000000000000^812"ProcessInfoPlistFile /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/Info.plist cisimpleTests/cisimpleTests-Info.plist    cd /Users/Kevin/Desktop/temp/cisimple-ios/cisimple    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Kevin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/bin:/usr/local/mysql:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-infoPlistUtility cisimpleTests/cisimpleTests-Info.plist -expandbuildsettings -format binary -platform iphoneos -o /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest/Info.plist36"A4B98A0F-CC75-4B56-960E-3397F8145E9F-
+
+CProcessPCH /var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cisimple-Prefix-axgxrpfxufftiiencqipvbyzeadi/cisimple-Prefix.pch.pth cisimple/cisimple-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377072438.678001
+e377072439.000524
+r1
+xProcessPCH
+x/var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cisimple-Prefix-axgxrpfxufftiiencqipvbyzeadi/cisimple-Prefix.pch.pth
+xcisimple/cisimple-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile cisimple/cisimple-Prefix.pch4cc6ad36ab79b641^14220037ab79b641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimple/cisimple-Prefix.pch0000000000000000^3938"ProcessPCH /var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cisimple-Prefix-axgxrpfxufftiiencqipvbyzeadi/cisimple-Prefix.pch.pth cisimple/cisimple-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kevin/Desktop/temp/cisimple-ios/cisimple    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Kevin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/bin:/usr/local/mysql:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/cisimpleTests-generated-files.hmap -I/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/cisimpleTests-own-target-headers.hmap -I/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/cisimpleTests-all-target-headers.hmap -iquote /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/cisimpleTests-project-headers.hmap -I/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/DerivedSources/armv7 -I/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/DerivedSources -F/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cisimple-Prefix-axgxrpfxufftiiencqipvbyzeadi/cisimple-Prefix.pch.dia -c /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimple/cisimple-Prefix.pch -o /var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cisimple-Prefix-axgxrpfxufftiiencqipvbyzeadi/cisimple-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cisimple-Prefix-axgxrpfxufftiiencqipvbyzeadi/cisimple-Prefix.pch.d36"EB062B92-6D2D-4231-B18D-7B3D05CD581C-
+
+CProcessPCH /var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cisimple-Prefix-gbdrvilxfmicokggswtrkuykguyp/cisimple-Prefix.pch.pth cisimple/cisimple-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377072438.678016
+e377072438.989843
+r1
+xProcessPCH
+x/var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cisimple-Prefix-gbdrvilxfmicokggswtrkuykguyp/cisimple-Prefix.pch.pth
+xcisimple/cisimple-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile cisimple/cisimple-Prefix.pchbdc3ad36ab79b641^e066fd36ab79b641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimple/cisimple-Prefix.pch0000000000000000^3941"ProcessPCH /var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cisimple-Prefix-gbdrvilxfmicokggswtrkuykguyp/cisimple-Prefix.pch.pth cisimple/cisimple-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kevin/Desktop/temp/cisimple-ios/cisimple    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Kevin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/bin:/usr/local/mysql:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/cisimpleTests-generated-files.hmap -I/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/cisimpleTests-own-target-headers.hmap -I/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/cisimpleTests-all-target-headers.hmap -iquote /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/cisimpleTests-project-headers.hmap -I/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/DerivedSources/armv7s -I/Users/Kevin/Desktop/temp/cisimple-ios/cisimple/build/cisimple.build/Release-iphoneos/cisimpleTests.build/DerivedSources -F/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cisimple-Prefix-gbdrvilxfmicokggswtrkuykguyp/cisimple-Prefix.pch.dia -c /Users/Kevin/Desktop/temp/cisimple-ios/cisimple/cisimple/cisimple-Prefix.pch -o /var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cisimple-Prefix-gbdrvilxfmicokggswtrkuykguyp/cisimple-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/0b/f16rjfqd1h3ft9pp28gqzt780000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cisimple-Prefix-gbdrvilxfmicokggswtrkuykguyp/cisimple-Prefix.pch.d36"12620FDE-B42D-4E52-8A84-E314043148C0-
+
+CTouch /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest
+s377072472.771499
+e377072472.778841
+r1
+xTouch
+x/Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Touch /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest9bacc558ab79b641^6b64c758ab79b641^---0#0#0#--632"Touch /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest    cd /Users/Kevin/Desktop/temp/cisimple-ios/cisimple    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Kevin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Kevin/.rvm/bin:/usr/local/mysql:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /usr/bin/touch -c /Users/Kevin/Desktop/temp/cisimple-ios/rwcd4bx9k2jlseu2k/cisimpleTests.octest36"FF1CF9C3-FC43-4AE6-84F9-C1AEA403CA92-
+
