@@ -33,5 +33,3 @@ This is an example project for setting up an iOS build process on [cisimple](htt
 ### 7. The build should complete successfully and you will find the compiled IPA under artifacts.
 
 ![alt text](https://raw.github.com/cisimple-team/cisimple-example-ios/master/readme-images/screenshot7.png "Screenshot 7")
-
-
