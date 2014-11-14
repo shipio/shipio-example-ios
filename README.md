@@ -1,4 +1,4 @@
-# cisimple-example-ios
+# shipio-example-ios
 [https://www.cisimple.com](https://www.cisimple.com)
 
 ## About
