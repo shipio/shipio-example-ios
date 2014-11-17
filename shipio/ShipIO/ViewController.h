@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
-    - (IBAction) buttonActionMethod:(id)senderId;
+@property (weak, nonatomic) IBOutlet UILabel *bundleVersion;
 
+- (IBAction) buttonActionMethod:(id)senderId;
 @end
