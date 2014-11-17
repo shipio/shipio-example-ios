@@ -5,41 +5,29 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>68930EEF-EAFC-4B63-B545-783D41688E7D</string>
+	<string>3E84F832-63C4-4331-88CE-6483E4A112B8</string>
 	<key>IDESourceControlProjectName</key>
-	<string>cisimple</string>
+	<string>ShipIO</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>A0FA047C-A315-4050-B1E9-9E7C1BC0F419</key>
-		<string>https://github.com/cisimple-team/cisimple-example-ios.git</string>
 		<key>AF96387616280F16A232941ACA1F2A16272CD744</key>
-		<string>https://github.com/shipio/shipio-example-ios.git</string>
+		<string>github.com:shipio/shipio-example-ios.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>cisimple/cisimple.xcworkspace</string>
+	<string>shipio/ShipIO.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>A0FA047C-A315-4050-B1E9-9E7C1BC0F419</key>
-		<string>../../../cisimple-example-ios</string>
 		<key>AF96387616280F16A232941ACA1F2A16272CD744</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/shipio/shipio-example-ios.git</string>
+	<string>github.com:shipio/shipio-example-ios.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
 	<string>AF96387616280F16A232941ACA1F2A16272CD744</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>A0FA047C-A315-4050-B1E9-9E7C1BC0F419</string>
-			<key>IDESourceControlWCCName</key>
-			<string>cisimple-example-ios</string>
-		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>

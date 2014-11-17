@@ -23,8 +23,7 @@
 		0A243A40158EBCB900C9CCCC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0A243A3E158EBCB900C9CCCC /* InfoPlist.strings */; };
 		0A243A43158EBCB900C9CCCC /* cisimpleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A243A42158EBCB900C9CCCC /* cisimpleTests.m */; };
 		0A243A4D158EBEFA00C9CCCC /* iphone-background.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A243A4C158EBEFA00C9CCCC /* iphone-background.png */; };
-		6397693016D6801D00255306 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6397692F16D6801D00255306 /* icon.png */; };
-		6397693216D6802B00255306 /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6397693116D6802B00255306 /* icon@2x.png */; };
+		0C81DC8B1A1A6D56001A4221 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C81DC8A1A1A6D56001A4221 /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,29 +38,28 @@
 
 /* Begin PBXFileReference section */
 		0A0B91FF167AFA1900E4CB8D /* Crashlytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Crashlytics.framework; sourceTree = "<group>"; };
-		0A243A10158EBCB800C9CCCC /* cisimple.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cisimple.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0A243A10158EBCB800C9CCCC /* ShipIO.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShipIO.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A243A14158EBCB800C9CCCC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		0A243A16158EBCB800C9CCCC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		0A243A18158EBCB800C9CCCC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		0A243A1C158EBCB900C9CCCC /* cisimple-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "cisimple-Info.plist"; sourceTree = "<group>"; };
+		0A243A1C158EBCB900C9CCCC /* ShipIO-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ShipIO-Info.plist"; sourceTree = "<group>"; };
 		0A243A1E158EBCB900C9CCCC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0A243A20158EBCB900C9CCCC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		0A243A22158EBCB900C9CCCC /* cisimple-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "cisimple-Prefix.pch"; sourceTree = "<group>"; };
+		0A243A22158EBCB900C9CCCC /* ShipIO-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ShipIO-Prefix.pch"; sourceTree = "<group>"; };
 		0A243A23158EBCB900C9CCCC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		0A243A24158EBCB900C9CCCC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		0A243A27158EBCB900C9CCCC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		0A243A2A158EBCB900C9CCCC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		0A243A2C158EBCB900C9CCCC /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		0A243A2D158EBCB900C9CCCC /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		0A243A34158EBCB900C9CCCC /* cisimpleTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cisimpleTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0A243A34158EBCB900C9CCCC /* ShipIOTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShipIOTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A243A35158EBCB900C9CCCC /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		0A243A3D158EBCB900C9CCCC /* cisimpleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "cisimpleTests-Info.plist"; sourceTree = "<group>"; };
+		0A243A3D158EBCB900C9CCCC /* ShipIOTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ShipIOTests-Info.plist"; sourceTree = "<group>"; };
 		0A243A3F158EBCB900C9CCCC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0A243A41158EBCB900C9CCCC /* cisimpleTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = cisimpleTests.h; sourceTree = "<group>"; };
 		0A243A42158EBCB900C9CCCC /* cisimpleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cisimpleTests.m; sourceTree = "<group>"; };
 		0A243A4C158EBEFA00C9CCCC /* iphone-background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iphone-background.png"; sourceTree = "<group>"; };
-		6397692F16D6801D00255306 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
-		6397693116D6802B00255306 /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
+		0C81DC8A1A1A6D56001A4221 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,10 +90,8 @@
 		0A243A05158EBCB800C9CCCC = {
 			isa = PBXGroup;
 			children = (
-				6397693116D6802B00255306 /* icon@2x.png */,
-				6397692F16D6801D00255306 /* icon.png */,
-				0A243A1A158EBCB900C9CCCC /* cisimple */,
-				0A243A3B158EBCB900C9CCCC /* cisimpleTests */,
+				0A243A1A158EBCB900C9CCCC /* ShipIO */,
+				0A243A3B158EBCB900C9CCCC /* ShipIOTests */,
 				0A243A13158EBCB800C9CCCC /* Frameworks */,
 				0A243A11158EBCB800C9CCCC /* Products */,
 			);
@@ -104,8 +100,8 @@
 		0A243A11158EBCB800C9CCCC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0A243A10158EBCB800C9CCCC /* cisimple.app */,
-				0A243A34158EBCB900C9CCCC /* cisimpleTests.octest */,
+				0A243A10158EBCB800C9CCCC /* ShipIO.app */,
+				0A243A34158EBCB900C9CCCC /* ShipIOTests.octest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -122,7 +118,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		0A243A1A158EBCB900C9CCCC /* cisimple */ = {
+		0A243A1A158EBCB900C9CCCC /* ShipIO */ = {
 			isa = PBXGroup;
 			children = (
 				0A243A23158EBCB900C9CCCC /* AppDelegate.h */,
@@ -131,37 +127,38 @@
 				0A243A29158EBCB900C9CCCC /* MainStoryboard_iPad.storyboard */,
 				0A243A2C158EBCB900C9CCCC /* ViewController.h */,
 				0A243A2D158EBCB900C9CCCC /* ViewController.m */,
+				0C81DC8A1A1A6D56001A4221 /* Images.xcassets */,
 				0A243A1B158EBCB900C9CCCC /* Supporting Files */,
 			);
-			path = cisimple;
+			path = ShipIO;
 			sourceTree = "<group>";
 		};
 		0A243A1B158EBCB900C9CCCC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				0A243A4C158EBEFA00C9CCCC /* iphone-background.png */,
-				0A243A1C158EBCB900C9CCCC /* cisimple-Info.plist */,
+				0A243A1C158EBCB900C9CCCC /* ShipIO-Info.plist */,
 				0A243A1D158EBCB900C9CCCC /* InfoPlist.strings */,
 				0A243A20158EBCB900C9CCCC /* main.m */,
-				0A243A22158EBCB900C9CCCC /* cisimple-Prefix.pch */,
+				0A243A22158EBCB900C9CCCC /* ShipIO-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		0A243A3B158EBCB900C9CCCC /* cisimpleTests */ = {
+		0A243A3B158EBCB900C9CCCC /* ShipIOTests */ = {
 			isa = PBXGroup;
 			children = (
 				0A243A41158EBCB900C9CCCC /* cisimpleTests.h */,
 				0A243A42158EBCB900C9CCCC /* cisimpleTests.m */,
 				0A243A3C158EBCB900C9CCCC /* Supporting Files */,
 			);
-			path = cisimpleTests;
+			path = ShipIOTests;
 			sourceTree = "<group>";
 		};
 		0A243A3C158EBCB900C9CCCC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				0A243A3D158EBCB900C9CCCC /* cisimpleTests-Info.plist */,
+				0A243A3D158EBCB900C9CCCC /* ShipIOTests-Info.plist */,
 				0A243A3E158EBCB900C9CCCC /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -170,9 +167,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0A243A0F158EBCB800C9CCCC /* cisimple */ = {
+		0A243A0F158EBCB800C9CCCC /* ShipIO */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0A243A46158EBCB900C9CCCC /* Build configuration list for PBXNativeTarget "cisimple" */;
+			buildConfigurationList = 0A243A46158EBCB900C9CCCC /* Build configuration list for PBXNativeTarget "ShipIO" */;
 			buildPhases = (
 				0A243A0C158EBCB800C9CCCC /* Sources */,
 				0A243A0D158EBCB800C9CCCC /* Frameworks */,
@@ -182,14 +179,14 @@
 			);
 			dependencies = (
 			);
-			name = cisimple;
+			name = ShipIO;
 			productName = cisimple;
-			productReference = 0A243A10158EBCB800C9CCCC /* cisimple.app */;
+			productReference = 0A243A10158EBCB800C9CCCC /* ShipIO.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0A243A33158EBCB900C9CCCC /* cisimpleTests */ = {
+		0A243A33158EBCB900C9CCCC /* ShipIOTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0A243A49158EBCB900C9CCCC /* Build configuration list for PBXNativeTarget "cisimpleTests" */;
+			buildConfigurationList = 0A243A49158EBCB900C9CCCC /* Build configuration list for PBXNativeTarget "ShipIOTests" */;
 			buildPhases = (
 				0A243A2F158EBCB900C9CCCC /* Sources */,
 				0A243A30158EBCB900C9CCCC /* Frameworks */,
@@ -201,10 +198,10 @@
 			dependencies = (
 				0A243A3A158EBCB900C9CCCC /* PBXTargetDependency */,
 			);
-			name = cisimpleTests;
+			name = ShipIOTests;
 			productName = cisimpleTests;
-			productReference = 0A243A34158EBCB900C9CCCC /* cisimpleTests.octest */;
-			productType = "com.apple.product-type.bundle";
+			productReference = 0A243A34158EBCB900C9CCCC /* ShipIOTests.octest */;
+			productType = "com.apple.product-type.bundle.ocunit-test";
 		};
 /* End PBXNativeTarget section */
 
@@ -215,7 +212,7 @@
 				LastUpgradeCheck = 0420;
 				ORGANIZATIONNAME = card.io;
 			};
-			buildConfigurationList = 0A243A0A158EBCB800C9CCCC /* Build configuration list for PBXProject "cisimple" */;
+			buildConfigurationList = 0A243A0A158EBCB800C9CCCC /* Build configuration list for PBXProject "ShipIO" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -227,8 +224,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0A243A0F158EBCB800C9CCCC /* cisimple */,
-				0A243A33158EBCB900C9CCCC /* cisimpleTests */,
+				0A243A0F158EBCB800C9CCCC /* ShipIO */,
+				0A243A33158EBCB900C9CCCC /* ShipIOTests */,
 			);
 		};
 /* End PBXProject section */
@@ -240,10 +237,9 @@
 			files = (
 				0A243A1F158EBCB900C9CCCC /* InfoPlist.strings in Resources */,
 				0A243A28158EBCB900C9CCCC /* MainStoryboard_iPhone.storyboard in Resources */,
+				0C81DC8B1A1A6D56001A4221 /* Images.xcassets in Resources */,
 				0A243A2B158EBCB900C9CCCC /* MainStoryboard_iPad.storyboard in Resources */,
 				0A243A4D158EBEFA00C9CCCC /* iphone-background.png in Resources */,
-				6397693016D6801D00255306 /* icon.png in Resources */,
-				6397693216D6802B00255306 /* icon@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,7 +293,7 @@
 /* Begin PBXTargetDependency section */
 		0A243A3A158EBCB900C9CCCC /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0A243A0F158EBCB800C9CCCC /* cisimple */;
+			target = 0A243A0F158EBCB800C9CCCC /* ShipIO */;
 			targetProxy = 0A243A39158EBCB900C9CCCC /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -390,16 +386,18 @@
 		0A243A47158EBCB900C9CCCC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: cisimple inc.";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "cisimple/cisimple-Prefix.pch";
-				INFOPLIST_FILE = "cisimple/cisimple-Info.plist";
+				GCC_PREFIX_HEADER = "ShipIO/ShipIO-Prefix.pch";
+				INFOPLIST_FILE = "ShipIO/ShipIO-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = ShipIO;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
@@ -409,16 +407,18 @@
 		0A243A48158EBCB900C9CCCC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: cisimple inc.";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "cisimple/cisimple-Prefix.pch";
-				INFOPLIST_FILE = "cisimple/cisimple-Info.plist";
+				GCC_PREFIX_HEADER = "ShipIO/ShipIO-Prefix.pch";
+				INFOPLIST_FILE = "ShipIO/ShipIO-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = ShipIO;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
@@ -434,9 +434,9 @@
 					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "cisimple/cisimple-Prefix.pch";
-				INFOPLIST_FILE = "cisimpleTests/cisimpleTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "ShipIO/ShipIO-Prefix.pch";
+				INFOPLIST_FILE = "ShipIOTests/ShipIOTests-Info.plist";
+				PRODUCT_NAME = ShipIOTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -451,9 +451,9 @@
 					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "cisimple/cisimple-Prefix.pch";
-				INFOPLIST_FILE = "cisimpleTests/cisimpleTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "ShipIO/ShipIO-Prefix.pch";
+				INFOPLIST_FILE = "ShipIOTests/ShipIOTests-Info.plist";
+				PRODUCT_NAME = ShipIOTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -462,7 +462,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0A243A0A158EBCB800C9CCCC /* Build configuration list for PBXProject "cisimple" */ = {
+		0A243A0A158EBCB800C9CCCC /* Build configuration list for PBXProject "ShipIO" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0A243A44158EBCB900C9CCCC /* Debug */,
@@ -471,7 +471,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0A243A46158EBCB900C9CCCC /* Build configuration list for PBXNativeTarget "cisimple" */ = {
+		0A243A46158EBCB900C9CCCC /* Build configuration list for PBXNativeTarget "ShipIO" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0A243A47158EBCB900C9CCCC /* Debug */,
@@ -480,7 +480,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0A243A49158EBCB900C9CCCC /* Build configuration list for PBXNativeTarget "cisimpleTests" */ = {
+		0A243A49158EBCB900C9CCCC /* Build configuration list for PBXNativeTarget "ShipIOTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0A243A4A158EBCB900C9CCCC /* Debug */,
