@@ -1,5 +1,5 @@
 # shipio-example-ios
-[https://www.cisimple.com](https://www.cisimple.com)
+[https://www.ship.io](https://www.ship.io)
 
 ## About
 This is an example project for setting up an iOS build process on [cisimple](https://www.cisimple.com).
