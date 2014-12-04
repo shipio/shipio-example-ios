@@ -10,7 +10,7 @@ This is an example project for setting up an iOS build process on [Ship.io](http
 
 ![alt text](https://raw.github.com/cisimple-team/cisimple-example-ios/master/readme-images/screenshot1.png "Screenshot 1")
 
-### 2. Select "Use Another Repsoitory" to expose the url and branch input fields.  Use the url of this repository (https://github.com/cisimple-team/cisimple-example-ios.git) and set the branch to master, then click "Create Job".
+### 2. Select "Use Another Repository" to expose the url and branch input fields.  Use the url of this repository (https://github.com/shipio/shipio-example-ios.git) and set the branch to master, then click "Create Job".
 
 ![alt text](https://raw.github.com/cisimple-team/cisimple-example-ios/master/readme-images/screenshot2.png "Screenshot 2")
 
@@ -18,7 +18,7 @@ This is an example project for setting up an iOS build process on [Ship.io](http
 
 ![alt text](https://raw.github.com/cisimple-team/cisimple-example-ios/master/readme-images/screenshot3.png "Screenshot 3")
 
-### 4. On the "Project Configuration" tab, make sure 'cisimple' is selected for both the Project and the Target.
+### 4. On the "Project Configuration" tab, make sure 'ShipIO' is selected for both the Project and the Target.
 
 ![alt text](https://raw.github.com/cisimple-team/cisimple-example-ios/master/readme-images/screenshot4.png "Screenshot 4")
 

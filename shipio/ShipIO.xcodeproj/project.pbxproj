@@ -428,7 +428,7 @@
 		0A243A4A158EBCB900C9CCCC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/cisimple.app/cisimple";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/ShipIO.app/ShipIO";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
@@ -445,7 +445,7 @@
 		0A243A4B158EBCB900C9CCCC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/cisimple.app/cisimple";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/ShipIO.app/ShipIO";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
