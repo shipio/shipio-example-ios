@@ -34,3 +34,4 @@ This is an example project for setting up an iOS build process on [Ship.io](http
 
 ![alt text](https://raw.github.com/cisimple-team/cisimple-example-ios/master/readme-images/screenshot7.png "Screenshot 7")
 
+We hope you enjoy using Ship.io!
