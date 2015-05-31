@@ -17,4 +17,3 @@ build/*
 *.pbxuser
 xcuserdata
 Pods
-shipio-ruby
