@@ -1,3 +1,6 @@
 [submodule "shipio-ruby"]
 	path = shipio-ruby
 	url = https://github.com/shipio/shipio-ruby.git
+[submodule "shiptool"]
+	path = shiptool
+	url = https://github.com/shipio/shiptool.git
