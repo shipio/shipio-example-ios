@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  cisimple
+//  Ship.io
 //
 //  Created by Kevin Rohling on 6/17/12.
 //  Copyright (c) 2012 card.io. All rights reserved.
@@ -64,9 +64,9 @@
 }
 
 - (IBAction) buttonActionMethod:(id)senderId {
-    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Really reset?" message:@"Do you really want to reset this game?" delegate:self cancelButtonTitle:@"Cancel" otherButtonTitles:nil];
+    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Ship it?" message:@"Ship it good?" delegate:self cancelButtonTitle:@"Cancel" otherButtonTitles:nil];
     // optional - add more buttons:
-    [alert addButtonWithTitle:@"Yes"];
+    [alert addButtonWithTitle:@"Ship it real good!"];
     [alert show];
 }
 

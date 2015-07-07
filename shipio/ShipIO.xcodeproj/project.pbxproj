@@ -24,6 +24,7 @@
 		0A243A43158EBCB900C9CCCC /* cisimpleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A243A42158EBCB900C9CCCC /* cisimpleTests.m */; };
 		0A243A4D158EBEFA00C9CCCC /* iphone-background.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A243A4C158EBEFA00C9CCCC /* iphone-background.png */; };
 		0C81DC8B1A1A6D56001A4221 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C81DC8A1A1A6D56001A4221 /* Images.xcassets */; };
+		42E65ADB1B4A3223006353C2 /* shipio-round-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 42E65ADA1B4A3223006353C2 /* shipio-round-logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		0A243A42158EBCB900C9CCCC /* cisimpleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cisimpleTests.m; sourceTree = "<group>"; };
 		0A243A4C158EBEFA00C9CCCC /* iphone-background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iphone-background.png"; sourceTree = "<group>"; };
 		0C81DC8A1A1A6D56001A4221 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		42E65ADA1B4A3223006353C2 /* shipio-round-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "shipio-round-logo.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +139,7 @@
 			isa = PBXGroup;
 			children = (
 				0A243A4C158EBEFA00C9CCCC /* iphone-background.png */,
+				42E65ADA1B4A3223006353C2 /* shipio-round-logo.png */,
 				0A243A1C158EBCB900C9CCCC /* ShipIO-Info.plist */,
 				0A243A1D158EBCB900C9CCCC /* InfoPlist.strings */,
 				0A243A20158EBCB900C9CCCC /* main.m */,
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0A243A1F158EBCB900C9CCCC /* InfoPlist.strings in Resources */,
+				42E65ADB1B4A3223006353C2 /* shipio-round-logo.png in Resources */,
 				0A243A28158EBCB900C9CCCC /* MainStoryboard_iPhone.storyboard in Resources */,
 				0C81DC8B1A1A6D56001A4221 /* Images.xcassets in Resources */,
 				0A243A2B158EBCB900C9CCCC /* MainStoryboard_iPad.storyboard in Resources */,
